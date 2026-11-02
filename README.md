@@ -1,5 +1,8 @@
 # About me
 
+| <img width="2400" height="1254" alt="O002-1_marianoao_card" src="https://github.com/user-attachments/assets/703831ea-4f72-439c-9e41-d79cdd2fc531" /> |
+| ---- |
+
 My name is Mariano Alonso Ortiz, and I was born in Madrid in the late seventies.  
 
 I work as a software architect in [Inditex](https://www.inditex.com), but I am an Industrial Engineer in Electronics and Automation. Guess what? I am a professional intruder.
